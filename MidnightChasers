@@ -3,7 +3,7 @@
 ]]--
 
 -- Main Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cryprol/MidnightChaserLibrary/refs/heads/main/Library"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cryprol/MidnightChasers/refs/heads/main/Library"))()
 
 -- Anti-AFK
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cryprol/AntiAFK/refs/heads/main/AntiAFK"))()
